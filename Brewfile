@@ -41,6 +41,7 @@ cask 'raycast'
 cask 'spotify'
 cask 'wezterm'
 cask 'arc'
+cask 'zed'
 
 # Work
 cask 'bitwarden'
